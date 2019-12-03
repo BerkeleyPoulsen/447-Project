@@ -1,5 +1,6 @@
 County Demographics - taken from https://opendata.maryland.gov/Demographic/Choose-Maryland-Compare-Counties-Demographics/pa7d-u6hs
 Socioeconomic Characteristics per County - taken from https://opendata.maryland.gov/Demographic/Maryland-Jurisdictions-Socioeconomic-Characteristi/v67y-zu4n
 County Vulnerability - taken from https://svi.cdc.gov
+as well as the vulenerability documentation taken from the same source.
 New Construction - taken from https://opendata.maryland.gov/Housing/Maryland-Total-New-Parcels-For-Residential-Develop/6umw-84d2
 DC Vulnerability - taken from https://svi.cdc.gov
